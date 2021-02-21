@@ -1,0 +1,21 @@
+    {{-- If your happiness depends on money, you will never be happy with yourself. --}}
+ <div class="sect2">
+   <!-- Trigger/Open The Modal -->
+  <div class="overflow-auto" >
+    <h1 class="bold text-gray-600 text-center lg:text-2xl text-xl font-bold pt-8 px-2 lg:px-0">Upload Form 16 PDF and file your Income Tax Return  </h1>
+     <p class="text-gray-500 font-light text-center text-sm lg:text-lg pt-4 lg:px-24 px-5"> Let’s upload Form 16 Part A & Form 16 Part B PDF and start preparing your ITR.<br> Have multiple Form 16? Don’t worry upload it on the following screen.<br>View sample <a href="" class="text-blue-600 hover:underline"> Form 16</a></p>
+
+     <div class="rounded-md shadow-xl bg-white max-w-xl mx-auto py-12 mt-8 upload-section">
+        <div class="w-40	h-40 mx-auto">
+      <svg viewBox="0 0 124 124" width="100%" height="100%" x="124" xmlns="http://www.w3.org/2000/svg" fit="" preserveAspectRatio="xMidYMid meet" focusable="false"><circle cx="62" cy="62" r="62" fill="#eaefff"></circle><path d="M22.8 117.6c-.1-.2-.2-.4-.3-.7-.1-.3-.2-.6-.2-.9 0-.6.1-1.1.4-1.3.3-.3.6-.4 1.1-.4h10.9c.1.2.2.4.3.7.1.3.2.6.2 1 0 .6-.1 1.1-.4 1.3-.3.3-.7.4-1.1.4l-10.9-.1z" fill="#94b0ff"></path><circle cx="100.1" cy="111.1" r="4.2" fill="none" stroke="#2962ff" stroke-miterlimit="10"></circle><circle cx="13.6" cy="76.9" r="1.8" fill="#bfd0ff"></circle><circle cx="63.1" cy="7.5" r="2.1" fill="none" stroke="#2962ff" stroke-miterlimit="10"></circle><path d="M11 37.8c-.1.1-.3.1-.6.1h-.8c-.5 0-.9-.1-1.2-.3-.2-.1-.4-.4-.4-1v-2.2H5c-.1-.1-.2-.3-.2-.6-.1-.2-.1-.5-.1-.7 0-.5.1-.8.3-1 .2-.2.5-.3.8-.3H8v-3.3c.1 0 .3-.1.6-.1.3-.1.5-.1.8-.1.5 0 .9.1 1.2.3.3.2.4.6.4 1.2v2.1h2.9c.1.2.1.4.2.6.1.2.1.5.1.7 0 .5-.1.8-.3 1s-.5.3-.8.3H11v3.3zM105.3 31.2c-.1 0-.2.1-.4.1h-.5c-.3 0-.6-.1-.8-.2-.2-.1-.3-.3-.3-.7v-1.3h-1.8c-.1-.1-.1-.2-.1-.4v-.4c0-.3.1-.5.2-.6s.3-.2.5-.2h1.3v-2c.1 0 .2 0 .4-.1h.5c.3 0 .6.1.7.2.2.1.3.4.3.7v1.3h1.8c0 .1.1.2.1.4 0 .1.1.3.1.4 0 .3-.1.5-.2.6s-.3.2-.5.2h-1.3v2z" fill="#94b0ff"></path><path d="M86.1 99.2H37.9c-3.4 0-6.1-2.7-6.1-6.1V27.9c0-3.4 2.7-6.1 6.1-6.1h48.2c3.4 0 6.1 2.7 6.1 6.1v65.2c0 3.4-2.7 6.1-6.1 6.1z" fill="#2962ff"></path><path d="M62.1 48.3h16.2c.9 0 1.9.1 2.6.9.9 1.4.3 3.2-1.2 3.7-.5.1-1 .2-1.6.2H45.9c-1 0-2.1-.1-2.8-1.2-.8-1.5-.1-3.2 1.5-3.6h17.5z" fill="#fff"></path><path d="M62.1 60h13.4c.8 0 1.6.1 2.1.9.8 1.4.3 3.2-.9 3.7-.4.1-.8.2-1.2.2H48.7c-.9 0-1.8-.1-2.3-1.2-.7-1.5-.1-3.2 1.2-3.6.4-.1.8-.1 1.2-.1 4.3.1 8.9.1 13.3.1zM62 77.7h-9c-.3 0-.7-.1-1.1-.3-.4-.3-.7-1.5-.7-2.4.1-1 .4-1.8 1-2 .2-.1.4-.1.7-.1h18c.6 0 1.1.1 1.4 1 .5 1.5.1 3.4-.8 3.7-.2.1-.4.1-.7.1H62z" fill="#94b0ff"></path><g fill="#fff"><path d="M41.4 32.3v1.2h3v1.8h-3v2.3H39v-7.2h5.8v1.8h-3.4zM47.2 37.3c-.6-.3-1.1-.8-1.4-1.3-.3-.6-.5-1.2-.5-1.9s.2-1.4.5-1.9c.3-.6.8-1 1.4-1.3.6-.3 1.3-.5 2.1-.5s1.5.2 2.1.5c.6.3 1.1.8 1.4 1.3.3.6.5 1.2.5 1.9s-.2 1.4-.5 1.9c-.3.6-.8 1-1.4 1.3-.6.3-1.3.5-2.1.5s-1.5-.1-2.1-.5zm2.9-1.6c.2-.1.4-.4.6-.6.1-.3.2-.6.2-.9s-.1-.7-.2-.9c-.1-.3-.3-.5-.6-.6s-.5-.2-.8-.2-.6.1-.8.2c-.2.1-.4.4-.6.6-.1.3-.2.6-.2.9s.1.7.2.9c.1.3.3.5.6.6.2.1.5.2.8.2s.6-.1.8-.2zM57.3 35.9h-.7v1.8h-2.4v-7.2h3.5c.7 0 1.2.1 1.7.3.5.2.9.5 1.1.9s.4.9.4 1.4c0 .5-.1 1-.3 1.3-.2.4-.6.7-1 .9l1.5 2.2h-2.6l-1.2-1.6zm.9-3.3c-.2-.1-.4-.2-.7-.2h-.9V34h.9c.3 0 .6-.1.7-.2.2-.1.2-.4.2-.6.1-.3 0-.5-.2-.6zM68.2 37.7v-3.3L66.7 37h-1.1L64 34.5v3.2h-2.2v-7.2h2l2.3 3.8 2.3-3.8h2v7.2h-2.2zM77.8 30.5v7.2h-2.4v-5.3h-1.2v-1.8h3.6zM83.8 33.3c.4.2.7.5.9.8.2.3.3.7.3 1.2s-.1.9-.4 1.3c-.3.4-.6.7-1.1.9-.4.2-.9.3-1.5.3-.7 0-1.3-.1-1.8-.4s-.9-.7-1.2-1.2c-.3-.5-.4-1.2-.4-1.9 0-.8.2-1.5.5-2.1.3-.6.8-1.1 1.4-1.4.6-.3 1.3-.5 2.1-.5.4 0 .8 0 1.2.1.4.1.7.2 1 .4l-.8 1.8c-.4-.3-.8-.4-1.3-.4-.4 0-.8.1-1 .3-.3.2-.4.5-.5.9.4-.3.9-.4 1.4-.4.4 0 .8.1 1.2.3zM82.5 36c.1-.1.2-.3.2-.5s-.1-.4-.2-.5c-.1-.1-.3-.2-.5-.2s-.4.1-.5.2c-.1.1-.2.3-.2.5s.1.4.2.5c.1.1.3.2.5.2s.3-.1.5-.2z"></path></g></svg>
+      </div>
+      <div class="flex items-start content-start justify-center my-4">
+          <label for="upload-button" class="relative cursor-pointer rounded-3xl px-9 py-2 bg-blue-600 text-white font-light hover:bg-blue-300 my-3">Browse
+              <input id="upload-button" accept="application/pdf" type="file" class="sr-only"/>
+            </label>  
+      </div>
+   
+  </div>
+
+  </div>
+  </div>
