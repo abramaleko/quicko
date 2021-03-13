@@ -1,6 +1,6 @@
-<div class="block py-4 pl-8 border-b border-gray-200 bg-white">
+<div class="block py-4 lg:pl-8 pl-4 border-b border-gray-200 bg-white">
     {{-- If your happiness depends on money, you will never be happy with yourself. --}}
-    <svg class="lg:w-38 w-24" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"  viewBox="0 0 525.766 120" enable-background="new 0 0 525.766 120" xml:space="preserve" fit="" preserveAspectRatio="xMidYMid meet" focusable="false">
+    <svg class="lg:w-38 w-24 inline" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"  viewBox="0 0 525.766 120" enable-background="new 0 0 525.766 120" xml:space="preserve" fit="" preserveAspectRatio="xMidYMid meet" focusable="false">
         <path fill="#2962FF" d="M458.241,97.68c-6.814-3.729-12.166-8.877-16.06-15.452c-3.887-6.573-5.825-13.909-5.825-22.007
             c0-8.097,1.938-15.432,5.825-22.006c3.894-6.573,9.24-11.725,16.06-15.453c6.813-3.728,14.471-5.593,22.969-5.593
             c8.418,0,16.035,1.865,22.85,5.593c6.813,3.728,12.146,8.858,15.992,15.392c3.853,6.535,5.773,13.89,5.773,22.066
@@ -37,4 +37,28 @@
             <path fill="#FFFFFF" d="M78.172,117.412c5.749-1.825,11.117-4.496,15.97-7.861L64.668,80.078L52.752,91.993L78.172,117.412z"></path>
         </g>
         </svg>
+        @guest
+        <div class="float-right lg:mr-6 mr-4">
+            <a href="{{ route('login') }}" class="text-blue-500 text-lg">
+                <img src="{{asset('images/signin.png')}}" class="inline lg:h-8 h-4 lg:mr-1">
+                Sign in
+            </a>
+        </div>
+        @endguest
+        @auth
+        <div class="float-right lg:mr-6 mr-4">
+
+            <a href="{{ route('logout') }}"
+               class="text-blue-500 text-lg"
+               onclick="event.preventDefault();
+                    document.getElementById('logout-form').submit();">
+                   <img src="{{asset('images/signout.png')}}" class="inline lg:h-8 h-4">
+                    {{ __('Sign out') }}
+                </a>
+            <form id="logout-form" action="{{ route('logout') }}" method="POST" class="hidden">
+                {{ csrf_field() }}
+            </form>
+        </div>
+        @endauth
+
 </div>

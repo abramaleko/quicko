@@ -13,27 +13,14 @@ class Index extends Component
 
     public function toggleComponent($data)
     {
-      $this->info=$data;
-     
-    } 
-
-    public function hydrate()
-    {
-
-         if (count($this->info)==14) 
-      {
-        //show the review component after data extraction.
-     if ($this->toggler=='false') 
+       $this->info=$data;
+        if ($this->toggler=='false') 
      {
         $this->toggler='true';
-     } 
-      }
+     }
+    } 
+
    
-    }
-
-
-
-    
 
     public function render()
     {

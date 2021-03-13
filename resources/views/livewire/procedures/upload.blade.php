@@ -1,6 +1,5 @@
     {{-- If your happiness depends on money, you will never be happy with yourself. --}}
  <div class="sect2">
-   <!-- Trigger/Open The Modal -->
   <div class="overflow-auto" >
     <h1 class="bold text-gray-600 text-center lg:text-2xl text-xl font-bold pt-8 px-2 lg:px-0">Upload Form 16 PDF and file your Income Tax Return  </h1>
      <p class="text-gray-500 font-light text-center text-sm lg:text-lg pt-4 lg:px-24 px-5"> Let’s upload Form 16 Part A & Form 16 Part B PDF and start preparing your ITR.<br> Have multiple Form 16? Don’t worry upload it on the following screen.<br>View sample <a href="" class="text-blue-600 hover:underline"> Form 16</a></p>

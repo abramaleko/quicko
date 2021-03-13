@@ -15,7 +15,6 @@ modal.style.display = "none";
      }
 
     var __PDF_DOC,employee_name,employee_code,employee_pan,employee_career_level,employee_address,period_with_employer,assesment_year,employer_name,employer_tan,employer_pan,total_income,deductions,taxable_income,tax_payable,total_taxes_deducted;
-
 	// When user chooses a PDF file
 $("#upload-button").on('change', function() {
 	// Validate whether PDF
@@ -150,10 +149,14 @@ function Extractinfo(page_no) {
 
 }
 
-function setInfo(info)
+function setInfo(x)
 {
 	// console.log(info);
-	Livewire.emit('toggle',info);
+	if (x.length==15) 
+	{
+		Livewire.emit('toggle',x);
+
+	}
 }
 
 
